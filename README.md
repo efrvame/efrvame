@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a scientific CV<br>🌱 I’m currently learning Python and SQL<br>💬 Ask me about scientific computing<br>⚡ Fun fact 2 and 5 are the only prime numbers that end in 2 or 5
+🔭 I’m currently learning frontend web development, specifically React framework.<br>🌱 I’m currently interested in designing and development of fully responsive web apps.<br>💬 I have a degree on scientific computing, you can ask me about that.<br>⚡ Fun fact 2 and 5 are the only prime numbers that end in 2 or 5.
 
 
 ## 🌐 Socials:
